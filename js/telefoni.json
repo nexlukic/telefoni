@@ -1,0 +1,11 @@
+[
+  {"Naziv":"Iphone X","Marka":"Apple","Cena":"1000$","Putanja":"images/x.jpg"},
+  {"Naziv":"Iphone 8","Marka":"Apple","Cena":"880$","Putanja":"images/8.jpg"},
+  {"Naziv":"Xperia XZ1","Marka":"Sony","Cena":"540$","Putanja":"images/xz1.jpg"},
+  {"Naziv":"HTC U11","Marka":"HTC","Cena":"640$","Putanja":"images/u11.jpg"},
+  {"Naziv":"Galaxy S8+","Marka":"Samsung","Cena":"980$","Putanja":"images/s8+.jpg"},
+  {"Naziv":"Galaxy S8","Marka":"Samsung","Cena":"900$","Putanja":"images/s8.jpg"},
+  {"Naziv":"Galaxy S7 edge","Marka":"Samsung","Cena":"730$","Putanja":"images/s7.jpg"},
+  {"Naziv":"Huawei nova 2","Marka":"Huawei","Cena":"730$","Putanja":"images/nova2.jpg"},
+  {"Naziv":"Galaxy Note8","Marka":"Samsung","Cena":"930$","Putanja":"images/note8.jpg"}
+]

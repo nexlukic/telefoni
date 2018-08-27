@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0">
+    <channel>
+        <item>
+            <title>Telefoni</title>
+            <description>Nudimo vam veliki izbor telefona</description>
+            <link>/index.html</link>
+        </item>
+        <item>
+            <title>Kontakt</title>
+            <description>
+                mail: nemanja.lukic.135.15@ict.edu.rs</description>
+            <link>/kontakt.html</link>
+        </item>
+    </channel>
+</rss>
